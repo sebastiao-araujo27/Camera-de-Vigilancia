@@ -1,7 +1,7 @@
 function init() {
     gapi.load('auth2', function() {
       gapi.auth2.init({
-        client_id: 'YOUR_CLIENT_ID.apps.googleusercontent.com'
+        client_id: '971850391752-61qvcge6g5f5hr8l52hlpvkvl2a0q9nc.apps.googleusercontent.com'
       });
     });
   }
